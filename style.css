@@ -1,0 +1,10 @@
+#div1,#div2,#div3{
+    background-color: #7fff00;
+    border-radius: 20px;
+    height: 500px;
+    width: 500px;
+}
+
+#img1,#img2,#img3{
+    height: 300px;
+}
